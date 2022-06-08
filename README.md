@@ -1,5 +1,5 @@
-# Hello there! I'm Ketley Gonçalves!
-### 👩‍💻 FRONT-END
+# Hello there! I'm *Ketley Gonçalves*!
+### 👩‍💻 Front-end student. I’m currently learning about HTML5, CSS, JS and React 
 
 
 <div align="center">
@@ -22,3 +22,5 @@
  	<a href = "mailto:ketleymg1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in//ketleynpsgoncalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+  
+# "A vida é feita de coragem"
