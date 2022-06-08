@@ -18,10 +18,10 @@
   
  ### You can contact me here:
  
-<div align="center"> 
+<div> 
   <a href="https://instagram.com/ketley_g" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href = "mailto:ketleymg1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in//ketleynpsgoncalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
- !["A vida é feita de coragem"](URL da imagem) # "A vida é feita de coragem
+# "A VIDA É FEITA DE *CORAGEM* "
