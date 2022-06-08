@@ -1,5 +1,5 @@
 # Hello there! I'm *Ketley Gonçalves*!
-### 👩‍💻 Front-end student. I’m currently learning about HTML5, CSS, JS and React 
+### 👩‍💻 Front-end student. I’m currently learning about HTML5, CSS, JS, Python and React 
 
 
 <div align="center">
