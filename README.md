@@ -7,6 +7,8 @@
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=ketleygoncalves&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
   <img img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketleygoncalves&layout=demo&langs_count=7&theme=calm"/>
 </div>
+ 
+ ![Contribution](https://activity-graph.herokuapp.com/graph?username=ketleygoncalves&theme=dark&hide_border=true&area=true)
   
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -27,5 +29,4 @@
  	<a href = "mailto:ketleymg1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in//ketleynpsgoncalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-  
-# "A VIDA É FEITA DE *CORAGEM* "
+
