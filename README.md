@@ -1,13 +1,18 @@
-# Hello there! I'm *Ketley Gonçalves*!
-### 👩‍💻 Front-end student. I’m currently learning about HTML5, CSS, JS, Python and React 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d8785f&height=180&section=header&text=HELLO THERE&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
+# I'm *Ketley Gonçalves*!
+
+### 👩‍💻 Front-end student. I’m currently learning about HTML5, CSS, JS, Python and React 
+<br>
 
 <div align="center">
   <a href="https://linktr.ee/ketley_g">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=ketleygoncalves&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
   <img img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketleygoncalves&layout=demo&langs_count=7&theme=calm"/>
 </div>
- 
+  
+ <br>
+  
 ![Ketley's github activity graph](https://activity-graph.herokuapp.com/graph?username=ketleygoncalves&bg_color=373f51&color=eaceb1&line=d8785f&point=ecad49&area=true&hide_border=falso)
   
 ### Main skills:
@@ -30,3 +35,4 @@
   <a href="https://www.linkedin.com/in//ketleynpsgoncalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d8785f&height=120&section=footer"/>
