@@ -9,6 +9,7 @@ Estou em processo de transição de carreira, sedenta por conhecimento pois aban
 Nesse processo de transição para a área de TI, comecei a trabalhar como social media/copy e hoje sou estudante de ADS pela Uninter, estou totalmente dedicada aos estudos e em busca de uma oportunidade como desenvolvedora Front-end e conquistar o tal sonhado home office, sim eu sou #teamhomeoffice 
 
 Bom sobre algumas das minhas habilidades estão:
+
 **SOFT SKILLS :**
 - Comunicativa, 
 - Proativa, 
