@@ -1,7 +1,27 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d8785f&height=180&section=header&text=HELLO THERE&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 # I'm *Ketley Gonçalves* a Front-end student. 
-<br>
+
+Olá! Eu sou a **Ketley Gonçalves**, mas pode me chamar de **Keke**, tenho 34 anos e meus pronomes são ela/dela. 
+
+Estou em processo de transição de carreira, sedenta por conhecimento pois abandonei o magistério em 2020 e fui em busca daquilo que sempre despertou minha curiosidade, cujo tema é um dos meus assuntos favoritos no mundo desde os meus 9 anos onde tive meu primeiro contato com o computador. 
+
+Nesse processo de transição para a área de TI, comecei a trabalhar como social media/copy e hoje sou estudante de ADS pela Uninter, estou totalmente dedicada aos estudos e em busca de uma oportunidade como desenvolvedora Front-end e conquistar o tal sonhado home office, sim eu sou #teamhomeoffice 
+
+Bom sobre algumas das minhas habilidades estão:
+**SOFT SKILLS :**
+- Comunicativa, 
+- Proativa, 
+- Empática,
+- Criativa.
+
+**HARD SKILLS:**
+- HTML,
+- CSS,
+- JS
+- JAVA.
+
+Quer acompanhar meu processo no Universo Tech? 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ketleynpsgoncalves/">
