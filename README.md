@@ -4,7 +4,7 @@
 
 Olá! Eu sou a **Ketley Gonçalves**, mas pode me chamar de **Keke**, tenho 34 anos e meus pronomes são ela/dela. 
 
-Estou em processo de transição de carreira, sedenta por conhecimento pois abandonei o magistério em 2020 e fui em busca daquilo que sempre despertou minha curiosidade, cujo tema é um dos meus assuntos favoritos no mundo desde os meus 9 anos onde tive meu primeiro contato com o computador. 
+Estou em processo de transição de carreira, sedenta por conhecimento pois abandonei o magistério em 2020 e fui em busca daquilo que sempre despertou minha curiosidade a **tecnologia**, um meus assuntos favoritos no mundo desde os meus 9 anos onde tive meu primeiro contato com o computador. 
 
 Nesse processo de transição para a área de TI, comecei a trabalhar como social media/copy e hoje sou estudante de ADS pela Uninter, estou totalmente dedicada aos estudos e em busca de uma oportunidade como desenvolvedora Front-end e conquistar o tal sonhado home office, sim eu sou #teamhomeoffice 
 
