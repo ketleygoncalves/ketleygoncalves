@@ -10,7 +10,7 @@ Nesse processo de transição para a área de TI, comecei a trabalhar como socia
 
 Bom sobre algumas das minhas habilidades estão:
 
-**SOFT SKILLS :**
+**SOTF SKILLS:**
 - Comunicativa, 
 - Proativa, 
 - Empática,
