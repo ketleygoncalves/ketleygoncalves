@@ -27,7 +27,7 @@ Bom sobre algumas das minhas habilidades estão:
 <div align="center">
   <a href="https://www.linkedin.com/in/ketleynpsgoncalves/">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ketleygoncalves&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketleygoncalves&layout=compact&langs_count=7&theme=calm"/>
+
 </div>
  <br>
   
