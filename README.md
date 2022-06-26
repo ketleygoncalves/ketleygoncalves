@@ -30,7 +30,7 @@ Bom sobre algumas das minhas habilidades estão:
 
 </div>
  <br>
-![Ketley's GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=ketleygoncalves&hide=html&layout=compact&theme=calm)]
+![Ketley's GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=ketleygoncalves&hide=html&layout=compact&theme=calm)
   
 ![Ketley's github activity graph](https://activity-graph.herokuapp.com/graph?username=ketleygoncalves&bg_color=373f51&color=eaceb1&line=d8785f&point=ecad49&area=true&hide_border=falso)
   
