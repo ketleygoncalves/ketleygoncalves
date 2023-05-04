@@ -2,25 +2,24 @@
 
 # I'm *Ketley Gonçalves* a Front-end student. 
 
-Olá! Eu sou a **Ketley Gonçalves**, mas pode me chamar de **Keke**, tenho 34 anos e meus pronomes são ela/dela. 
+Olá! Eu sou a **Ketley Gonçalves**, mas pode me chamar de **Keke**, é muito bom te ver por aqui! 
+Agora deixe eu te contar um pouco sobre mim.
 
-Estou em processo de transição de carreira, sedenta por conhecimento pois abandonei o magistério em 2020 e fui em busca daquilo que sempre despertou minha curiosidade a **tecnologia**, um meus assuntos favoritos no mundo desde os meus 9 anos onde tive meu primeiro contato com o computador. 
+📌 Formação 
+Estou cursando Análise e Desenvolvimento de Sistemas com previsão de conclusão em dezembro de 2023. 
+Mas já cursei também Magistério e Pedagogia, onde desenvolvi algumas SOTF SKILLS, sendo elas oratória, proatividade e criatividade. 
 
-Nesse processo de transição para a área de TI, comecei a trabalhar como social media/copy e hoje sou estudante de ADS pela Uninter, estou totalmente dedicada aos estudos e em busca de uma oportunidade como desenvolvedora Front-end e conquistar o tal sonhado home office, sim eu sou #teamhomeoffice 
+📌 Profissional 
+Iniciei minha vida profissional no Comércio, fui para a Educação, passei pela Publicidade e Design e atualmente estou no meio Corporativo contribuindo como Supervisora de Central de Relacionamentos Chevrolet na MCV Chevrolet, ainda estou em processo de transição de carreira pois meu objetivo é trabalhar somente como desenvolvedora FULL STACK. 
 
-Bom sobre algumas das minhas habilidades estão:
+Porém continuo em busca daquilo que sempre despertou minha curiosidade, cujo tema é um dos meus assuntos favoritos no mundo, com isso já conquistei algumas HARD SKILLS como? 
 
-**SOFT SKILLS:**
-- Comunicativa, 
-- Proativa, 
-- Empática,
-- Criativa.
-
-**HARD SKILLS:**
-- HTML,
-- CSS,
+- HTML
+- CSS
 - JS
-- JAVA.
+- Photoshop / Lightroom
+- Inglês
+- Criação de Conteúdo, 
 
 # Quer acompanhar meu processo no Universo Tech? 
 
@@ -49,6 +48,8 @@ Bom sobre algumas das minhas habilidades estão:
 
 
  ### Let's talk?
+  
+Fiquei à vontade para entrar em contato, sou bastante acessível.
  <div> 
   <a href="https://instagram.com/ketley_g" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in//ketleynpsgoncalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
