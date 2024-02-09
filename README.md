@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d8785f&height=180&section=header&text=HELLO THERE&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
-
 # I'm *Ketley Gonçalves* a Front-end student. 
 
 Olá! Eu sou a **Ketley Gonçalves**, mas pode me chamar de **Keke**, é muito bom te ver por aqui! 
@@ -23,8 +21,7 @@ Porém continuo em busca daquilo que sempre despertou minha curiosidade, cujo te
 
 # Quer acompanhar meu processo no Universo Tech? 
 
-![Ketley's github activity graph](https://activity-graph.herokuapp.com/graph?username=ketleygoncalves&bg_color=373f51&color=eaceb1&line=d8785f&point=ecad49&area=true&hide_border=falso)
-  
+ 
 <div align="center">
   <a href="https://www.linkedin.com/in/ketleynpsgoncalves/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketleygoncalves&layout=compact&langs_count=7&theme=calm"/>
