@@ -1,6 +1,6 @@
-# Desenvolvedora Front-end | Especialista em Web Design Responsivo | Apaixonada por Robótica | Construindo o Futuro da Automação
+## Desenvolvedora Front-end | Especialista em Web Design Responsivo | Apaixonada por Robótica | Construindo o Futuro da Automação
 
-## Sobre mim:
+# Sobre mim:
 
 Olá! Sou **Ketley Gonçalves**, Desenvolvedora Front-end em constante evolução, apaixonada por criar soluções inovadoras. Minha carreira começou no comércio, passou pela educação, e encontrou sua verdadeira vocação no design e desenvolvimento web.
 
