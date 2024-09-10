@@ -1,23 +1,19 @@
-# I'm *Ketley Gonçalves* a Front-end student. 
+# Desenvolvedora Front-end | Especialista em Web Design Responsivo | Apaixonada por Robótica | Construindo o Futuro da Automação
 
-Olá! Eu sou a **Ketley Gonçalves**, mas pode me chamar de **Keke**, é muito bom te ver por aqui! 
-Agora deixe eu te contar um pouco sobre mim.
+## Sobre mim:
 
-📌 Formação 
-Estou cursando Análise e Desenvolvimento de Sistemas com previsão de conclusão em dezembro de 2023. 
-Mas já cursei também Magistério e Pedagogia, onde desenvolvi algumas SOTF SKILLS, sendo elas oratória, proatividade e criatividade. 
+Olá! Sou **Ketley Gonçalves**, Desenvolvedora Front-end em constante evolução, apaixonada por criar soluções inovadoras. Minha carreira começou no comércio, passou pela educação, e encontrou sua verdadeira vocação no design e desenvolvimento web.
 
-📌 Profissional 
-Iniciei minha vida profissional no Comércio, fui para a Educação, passei pela Publicidade e Design e atualmente estou no meio Corporativo contribuindo como Supervisora de Central de Relacionamentos Chevrolet na MCV Chevrolet, ainda estou em processo de transição de carreira pois meu objetivo é trabalhar somente como desenvolvedora FULL STACK. 
+Combino design intuitivo com desenvolvimento eficiente para criar experiências digitais memoráveis. Tenho expertise em **HTML, CSS, JavaScript e Photoshop**, e busco constantemente novas ferramentas para otimizar processos. Minha curiosidade por automação me leva a desenvolver scripts em **Python** que aceleram o desenvolvimento e garantem a qualidade dos projetos.
 
-Porém continuo em busca daquilo que sempre despertou minha curiosidade, cujo tema é um dos meus assuntos favoritos no mundo, com isso já conquistei algumas HARD SKILLS como? 
+Atualmente, estou aprofundando meus conhecimentos em backend, com foco em Python, e explorando maneiras de integrar hardware e software para melhorar a qualidade de vida. Em breve, iniciarei um curso de montagem e manutenção de computadores para expandir minhas competências técnicas.
 
-- HTML
-- CSS
-- JS
-- Photoshop / Lightroom
-- Inglês
-- Criação de Conteúdo, 
+Acredito no poder transformador da tecnologia e estou entusiasmada para contribuir com projetos inovadores. Procuro oportunidades em empresas que valorizam a inovação e o desenvolvimento contínuo.
+
+🎯 **O que posso oferecer:**
+- Criação de Landing Pages otimizadas para conversão
+- Design gráfico alinhado à identidade visual
+- Experiência comprovada em ambientes remotos e multiculturais
 
 # Quer acompanhar meu processo no Universo Tech? 
 
@@ -46,7 +42,7 @@ Porém continuo em busca daquilo que sempre despertou minha curiosidade, cujo te
 
  ### Let's talk?
   
-Fiquei à vontade para entrar em contato, sou bastante acessível.
+🔗 **Vamos nos conectar e explorar juntos o futuro da tecnologia:**
  <div> 
   <a href="https://instagram.com/ketley_g" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in//ketleynpsgoncalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
