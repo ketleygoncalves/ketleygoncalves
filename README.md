@@ -1,15 +1,17 @@
 # Sobre mim:
 
 ### Desenvolvedora Front-end | Especialista em Web Design Responsivo | Apaixonada por Robótica | Construindo o Futuro da Automação
-Olá! Sou Ketley Gonçalves, Desenvolvedora Front-end especializada em desenvolvimento web e apaixonada por criar soluções tecnológicas inovadoras que combinam design responsivo e programação eficiente. Domino HTML, CSS, JavaScript e Photoshop, e busco constantemente aprimorar minhas habilidades, explorando ferramentas de automação para otimizar processos. Atualmente, estou me aprofundando em desenvolvimento backend com foco em Python e robótica. Acredito que a tecnologia pode transformar o mundo, e estou entusiasmada para contribuir com projetos desafiadores e inovadores.
 
-🎯 O que posso oferecer agora:
+Olá! Sou **Ketley Gonçalves**, Desenvolvedora Front-end especializada em desenvolvimento web e apaixonada por criar soluções tecnológicas inovadoras que combinam design responsivo e programação eficiente. Domino **HTML**, **CSS**, **JavaScript** e **Photoshop**, e busco constantemente aprimorar minhas habilidades, explorando ferramentas de automação para otimizar processos. Atualmente, estou me aprofundando em **desenvolvimento backend** com foco em **Python** e **robótica**. Acredito que a tecnologia pode transformar o mundo, e estou entusiasmada para contribuir com projetos desafiadores e inovadores.
 
-Criação de Landing Pages otimizadas para alta conversão
-Design gráfico profissional, alinhado à identidade visual
-Edição de fotos e Diagramação de Álbuns fotográficos
-Assessoria Digital para empresas e profissionais que buscam presença online estratégica
-Experiência em ambientes remotos e multiculturais, com foco em colaboração global
+🎯 **O que posso oferecer agora:**
+
+- Criação de **Landing Pages** otimizadas para alta conversão
+- **Design gráfico** profissional, alinhado à identidade visual
+- **Edição de fotos** e **Diagramação de Álbuns Fotográficos**
+- **Assessoria Digital** para empresas e profissionais que buscam presença online estratégica
+- Experiência em **ambientes remotos e multiculturais**, com foco em colaboração global
+
 
 # Quer acompanhar meu processo no Universo Tech? 
 
