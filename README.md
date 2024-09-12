@@ -1,19 +1,16 @@
-## Desenvolvedora Front-end | Especialista em Web Design Responsivo | Apaixonada por Robótica | Construindo o Futuro da Automação
+# Desenvolvedora Front-end | Especialista em Web Design Responsivo | Apaixonada por Robótica | Construindo o Futuro da Automação
 
-# Sobre mim:
+## Sobre mim:
 
-Olá! Sou **Ketley Gonçalves**, Desenvolvedora Front-end em constante evolução, apaixonada por criar soluções inovadoras. Minha carreira começou no comércio, passou pela educação, e encontrou sua verdadeira vocação no design e desenvolvimento web.
+Olá! Sou Ketley Gonçalves, Desenvolvedora Front-end especializada em desenvolvimento web e apaixonada por criar soluções tecnológicas inovadoras que combinam design responsivo e programação eficiente. Domino HTML, CSS, JavaScript e Photoshop, e busco constantemente aprimorar minhas habilidades, explorando ferramentas de automação para otimizar processos. Atualmente, estou me aprofundando em desenvolvimento backend com foco em Python e robótica. Acredito que a tecnologia pode transformar o mundo, e estou entusiasmada para contribuir com projetos desafiadores e inovadores.
 
-Combino design intuitivo com desenvolvimento eficiente para criar experiências digitais memoráveis. Tenho expertise em **HTML, CSS, JavaScript e Photoshop**, e busco constantemente novas ferramentas para otimizar processos. Minha curiosidade por automação me leva a desenvolver scripts em **Python** que aceleram o desenvolvimento e garantem a qualidade dos projetos.
+🎯 O que posso oferecer agora:
 
-Atualmente, estou aprofundando meus conhecimentos em backend, com foco em Python, e explorando maneiras de integrar hardware e software para melhorar a qualidade de vida. Em breve, iniciarei um curso de montagem e manutenção de computadores para expandir minhas competências técnicas.
-
-Acredito no poder transformador da tecnologia e estou entusiasmada para contribuir com projetos inovadores. Procuro oportunidades em empresas que valorizam a inovação e o desenvolvimento contínuo.
-
-🎯 **O que posso oferecer:**
-- Criação de Landing Pages otimizadas para conversão
-- Design gráfico alinhado à identidade visual
-- Experiência comprovada em ambientes remotos e multiculturais
+Criação de Landing Pages otimizadas para alta conversão
+Design gráfico profissional, alinhado à identidade visual
+Edição de fotos e Diagramação de Álbuns fotográficos
+Assessoria Digital para empresas e profissionais que buscam presença online estratégica
+Experiência em ambientes remotos e multiculturais, com foco em colaboração global
 
 # Quer acompanhar meu processo no Universo Tech? 
 
